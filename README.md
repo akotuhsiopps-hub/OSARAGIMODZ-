@@ -1,7 +1,5 @@
-# OSARAGIMODZ-
-PANEL NA BULOK TUH
 {
-  "password": "WRX-123456",
+  "password": "OSARAGI-123456",
   "expire": "2026-03-30 11:59 PM",
   "used": 1,
   "max": 3,
